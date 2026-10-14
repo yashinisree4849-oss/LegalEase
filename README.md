@@ -1,7 +1,15 @@
+# LegalEase - AI Powered Legal Document Generator
+SB - Generative AI with Google Cloud Data
 
-Want me to generate:
-1.  Logo for legalEase?
-2.  Full landing page code?
-3.  Backend prompt logic for generating documents?
+Features:
+- Generate Rental, NDA, Offer Letter, Affidavit
+- Auto structure with clauses
+- Download option
 
-Tell me which template you want to build first - Rental Agreement is easiest to start with.
+Tech: Streamlit + Gemini 1.5 Flash + Google Cloud
+## 🚀 Live Demo
+https://legaleasestreamlit-run-app-py-server.onrender.com/
+
+## 📝 Notes
+Please wait a few moments for the app to load, as the server may take time to start.
+
